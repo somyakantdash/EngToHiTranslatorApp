@@ -21,7 +21,7 @@ A brief description of what this project does and who it's for
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Copyright (c) [2023] [somyakant Dash]
+Copyright (c) [2023] [Somyakant Dash]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
