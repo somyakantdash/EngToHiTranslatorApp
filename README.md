@@ -1,7 +1,16 @@
-
 # Eng to Hi Translator App
 
-A brief description of what this project does and who it's for
+This is a simple take on the traditional Rock, Paper, Scissors game made in the form of an Adnroid app programmed in Java. This was one of the first applications that I made in Java and in Android Studio, so my code it a little bit green. I certianly could return to it and update the code, but I think it is a good reference to have some of my early days of programming documented.
+
+An English to Hindi translator app is a mobile application that helps users translate text or speech from English to Hindi. It typically provides a user-friendly interface where you can input English text or speak into the app, and it will generate the corresponding Hindi translation. Some of these apps may offer additional features like offline translation, voice recognition, and the ability to copy translations. They are useful for communication, travel, and learning the Hindi language.
+
+Key Features of the App:
+
+1. Text Translation: The app allows users to input English text and receive instant translations into Hindi. It utilizes translation APIs or libraries to provide accurate language conversion.
+
+2. Voice Translation: For added convenience, the app offers voice recognition and translation. Users can speak a sentence in English, and the app will convert it to Hindi.
+
+3. Translation Copy: The app keeps a copy of your translations, allowing users to access their copy the translations.
 
 
 ## Screenshots
