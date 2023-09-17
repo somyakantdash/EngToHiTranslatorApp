@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:state_pressed="true">
+        <inset android:drawable="@drawable/selector_swaps" android:insetLeft="8dp" android:insetRight="8dp" android:insetTop="8dp" android:insetBottom="8dp"/>
+    </item>
+    <item android:drawable="@drawable/selector_swaps"/>
+</selector>

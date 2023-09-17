@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59908849481",
+    "project_id": "translator-app-60e18",
+    "storage_bucket": "translator-app-60e18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59908849481:android:b62e973fd07b889c3d6498",
+        "android_client_info": {
+          "package_name": "com.example.translatorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBObmnZPZ93KO9AeNn1LxWRQuRbC6ZKUV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

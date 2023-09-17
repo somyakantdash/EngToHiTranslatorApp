@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:state_pressed="true">
+        <inset android:drawable="@drawable/translate_image" android:insetLeft="3dp" android:insetTop="3dp" android:insetRight="3dp" android:insetBottom="3dp" />
+    </item>
+    <item android:drawable="@drawable/translate_image" />
+</selector>
